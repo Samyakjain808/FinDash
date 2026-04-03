@@ -10,6 +10,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.2-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Recharts](https://img.shields.io/badge/Recharts-3.8-FF6384?style=for-the-badge)](https://recharts.org/)
 
+<h3><a href="https://fin-dash-fawn.vercel.app/" target="_blank">🔴 Live Demo</a></h3>
+
 [✨ Features](#-features) · [📸 Screenshots](#-screenshots) · [🚀 Getting Started](#-getting-started) · [🏗️ Architecture](#️-architecture) · [📂 Project Structure](#-project-structure)
 
 </div>
